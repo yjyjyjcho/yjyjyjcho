@@ -29,7 +29,8 @@
 ipynb(주피터) 파일 랜더링 실패시 해결방법
 https://m.blog.naver.com/qbxlvnf11/221646489357
 
-web 주소 : "https://nbviewer.jupyter.org" + "주피터 노트북 파일이 올려져 있는 깃허브 사이트의 url"
+web에 입력 : "https://nbviewer.jupyter.org" + "주피터 노트북 파일이 올려져 있는 깃허브 사이트의 url"
 
 
+url에 들어가면 해당 주피터 노트북 파일을 볼 수 있습니다.
 
