@@ -31,6 +31,10 @@ https://m.blog.naver.com/qbxlvnf11/221646489357
 
 web에 입력 : "https://nbviewer.jupyter.org" + "주피터 노트북 파일이 올려져 있는 깃허브 사이트의 url"
 
+ex) 
+주피터 노트북 파일이 올려져 있는 깃허브 사이트의 url : https://github.com/yjyjyjcho/skill_practice/blob/main/%EB%B6%80%EC%82%B0%EA%B5%90%EB%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_practice.ipynb
+
+web에 입력 : https://nbviewer.jupyter.org/github/yjyjyjcho/skill_practice/blob/main/%EB%B6%80%EC%82%B0%EA%B5%90%EB%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_practice.ipynb
 
 url에 들어가면 해당 주피터 노트북 파일을 볼 수 있습니다.
 
