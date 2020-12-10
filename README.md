@@ -26,8 +26,9 @@
 📫 How to reach me: yjyjyjcho@naver.com
 
 
-ipynb(주피터) 파일 랜더링 실패시 해결방법
-https://m.blog.naver.com/qbxlvnf11/221646489357
+# ipynb(주피터) 파일 랜더링 실패시 해결방법
+
+(https://m.blog.naver.com/qbxlvnf11/221646489357)
 
 web에 입력 : "https://nbviewer.jupyter.org" + "주피터 노트북 파일이 올려져 있는 깃허브 사이트의 url"
 
